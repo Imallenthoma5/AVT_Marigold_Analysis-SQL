@@ -4,7 +4,7 @@ This is a Project Work which depicts how SQL was used in the case where Excel wa
 
 SQL usage was brought upon because the data of so many years was piling up and Excel would often fail. The AVT_Marigold_Analysis_VS just shows a small snippet of my work with Data in AVT Natural. 
 
-Luteinester 2024.xlxs is the MS Excel Documentation of the same. The viewer can download both files, and go through a small portion of my work at AVT Natural.
+Luteinester 2024.xlsx is the MS Excel Documentation of the same. The viewer can download both files, and go through a small portion of my work at AVT Natural.
 
 Apart from all the Data Visualization and Analytics work, I was also working on the Material (Mass and Energy) Balance of the entire process.
 I have documented that in the last part of this Repository. As you can see, it is here in the Marigold LUTEINESTER MB-1.xlsx.
